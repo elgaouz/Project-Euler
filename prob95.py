@@ -66,7 +66,7 @@ def smallestMember_of_longestAmicable_chain(limit=1_000_000):
         print("Aucune chaîne amicale trouvée dans la plage donnée.")
 
 #smallestMember_of_longestAmicable_chain()"""
-"""def sum_of_proper_divisors(n):
+def sum_of_proper_divisors(n):
     s = 1  # 1 is always a proper divisor of n
     for i in range(2, int(n**0.5) + 1):
         if n % i == 0:
@@ -100,7 +100,7 @@ def smallest_member_of_longest_amicable_chain(limit=1_000_000):
     else:
         print("Aucune chaîne amicale trouvée dans la plage donnée.")
 
-smallest_member_of_longest_amicable_chain()"""
+smallest_member_of_longest_amicable_chain()
 
 
 
